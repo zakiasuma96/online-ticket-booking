@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font-raleway{
+  font-family: "Raleway", sans-serif;
+
+}
+
+.hero-section{
+  background-image: url('../images/banner.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 95vh;
+
+}
